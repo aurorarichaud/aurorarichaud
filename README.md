@@ -1,6 +1,6 @@
 ## Hello world, I'm Aurora 👋🏼
 ### A Control and Automation Engineering Student at PUC-Rio
-- 🌱 Learning **C, C++, C#, Java**
+- 🎓 Learning **C, C++, C#, Java**
 - 📫 How to reach me **aurorarichaud2@gmail.com**
   
 <div align="center">
