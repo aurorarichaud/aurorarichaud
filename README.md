@@ -5,8 +5,8 @@
   
 <div align="center">
   <a href="https://github.com/brunobpinto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobpinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobpinto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aurorarichaud&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorarichaud&layout=compact&langs_count=7&theme=darcula"/>
   <img src="[https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif](https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif)"/>
 </div>
   
