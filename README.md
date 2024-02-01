@@ -1,4 +1,4 @@
-## Hey, I'm Bruno 👋🏼
+## Hey, I'm Aurora 👋🏼
 ### A Computer Engineering Student at PUC-Rio
 - 🌱 I’m currently learning **HTML, CSS, Django**
 - 📫 How to reach me **contato@brunobpinto.com**
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorarichaud&layout=compact&langs_count=7&theme=darcula"/>
   <img src="[https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif](https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif)"/>
 </div>
-  
+
   ![GIF](https://github.com/aurorarichaud/aurorarichaud/blob/main/bannerGithub.gif)
 
   ##
