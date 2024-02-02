@@ -2,18 +2,19 @@
 ### A Control and Automation Engineering Student at PUC-Rio
 - 🎓 Learning **C, C++, C#, Java**
 - 📫 How to reach me **aurorarichaud2@gmail.com**
-  
+
+##
+
 <div align="center">
   <a href="https://github.com/aurorarichaud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aurorarichaud&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorarichaud&layout=compact&langs_count=7&theme=transparent"/>
-  <img src="[https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif](https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aurorarichaud&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorarichaud&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 
   ![GIF](https://github.com/aurorarichaud/aurorarichaud/blob/main/bannerGithub.gif)
 
-  ##
+##
   
 <div align="center">
   <img align="center" alt="aurorarichaud-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
