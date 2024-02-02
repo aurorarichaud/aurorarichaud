@@ -11,8 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorarichaud&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
-  ![GIF](https://github.com/brunobpinto/brunobpinto/blob/main/bannerGithub.gif)
-
+![GIF](https://github.com/aurorarichaud/aurorarichaud/blob/main/bannerGithub.gif)
 
 ##
   
