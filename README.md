@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou Aurora 👋🏼
 ### Estudante de Engenharia de Controle e Automação na PUC-Rio
 - 🎓 Aprendendo **C++, C#, CSS, HTML, e Java**
-- 📫 Como me contatar: **aurorarichaud2@gmail.com**
+- 📫 Como me contatar: **github@aurorarichaud.com**
 
 ##
 
